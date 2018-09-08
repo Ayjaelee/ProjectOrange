@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scenes/lobby.unity
+    guid: de0b3d15a26c6994fb3fca8b37a16799
+  - enabled: 1
+    path: Assets/scenes/Hotel_Room.unity
+    guid: deeeccb9c8518394888169b00ebfb33f
+  - enabled: 1
+    path: Assets/scenes/Elevator.unity
+    guid: 4c561b304a45f404f99181d40b919a2c
+  - enabled: 1
+    path: Assets/scenes/Outside.unity
+    guid: 228f5b7b21c1db248bf504f4d6dd0836
+  - enabled: 1
+    path: Assets/scenes/InsideHotelRoom.unity
+    guid: 0074a9a59f581dd41a8934c750e59658
